@@ -11,9 +11,9 @@ spectacular
 |____ bin		: exécutables
 |____ files		: fichiers de configuration
 |____ img		: images à afficher
-|____ include     : fichiers d'entête C
+|____ include           : fichiers d'entête C
 |____ lib		: bibliothèque C
-|____ script    : scripts python
+|____ script            : scripts python
 |____ src		: fichiers sources C du projet
 |____ www		: fichiers web du projet
 ```
