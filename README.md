@@ -22,9 +22,9 @@ spectacular
 
 Pour reproduire ce projet, assurez-vous d'avoir un serveur apache fonctionnel sur Raspberry-Pi et ajoutez la configuration de l'hôte virtuelle disponible dans le dossier files (il se peut qu'il faille la modifier selon le répertoire dans lequel vous placez ce projet).
 
-Puis veillez à installer la bibliothèque SPI-Py pour être en mesure de lire les puces RFID.
+Puis veillez à installer la bibliothèque SPI-Py (https://github.com/lthiery/SPI-Py) pour être en mesure de lire les puces RFID.
 
-Dans certains cas, il pourrait être nécessaire de recompiler le programme fbvs. Veillez à le suffixer de _pc ou _pi selon le cas.
+Dans certains cas, il pourrait être nécessaire de recompiler le programme fbvs (https://github.com/kaihs/fbvs). Veillez à le suffixer de _pc ou _pi selon le cas.
 
 Enfin rendez-vous dans le répertoire src puis lancez le makefile.
 ```
