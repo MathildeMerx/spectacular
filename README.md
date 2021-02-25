@@ -20,7 +20,7 @@ spectacular
 
 ## Compilation et exécution
 
-Pour reproduire ce projet, assurez-vous d'avoir un serveur apache fonctionnel sur Raspberry-Pi et ajoutez la configuration de l'hôte virtuelle décrite dans Configuration Apache (il se peut qu'il faille la modifier selon le répertoire dans lequel vous placez ce projet).
+Pour reproduire ce projet, assurez-vous d'avoir un serveur apache fonctionnel sur Raspberry-Pi et ajoutez la configuration de l'hôte virtuelle disponible dans le dossier files (il se peut qu'il faille la modifier selon le répertoire dans lequel vous placez ce projet).
 
 Puis veillez à installer la bibliothèque SPI-Py pour être en mesure de lire les puces RFID.
 
